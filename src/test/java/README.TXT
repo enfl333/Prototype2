@@ -5,8 +5,8 @@
  * 3. Annotations. DONE
  * 4. Prioritizing and disabling test.DONE
  * 5. Dependency test, Always Run Property
-
- *
+ * 6. Grouping test  and run xml file based on selected tags
+ * 7. Assertions in TestNg framework
  * @author enrique
  *
  */
