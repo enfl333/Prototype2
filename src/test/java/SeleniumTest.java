@@ -19,6 +19,7 @@ public class SeleniumTest {
         System.setProperty("webdriver.chrome.driver","C:/WebDrivers/chromedriver.exe");
         driver = new ChromeDriver();
         driver.get("https://opensource-demo.orangehrmlive.com");
+        System.out.println("Test");
     }
 
     @Test(priority = 1)
